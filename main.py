@@ -3,3 +3,4 @@ if cachorros > 10:
     print("muito cachorro")
 else:
     print("pouco cachorro")
+print("fim do programa")
